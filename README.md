@@ -2,4 +2,4 @@
 # CMSI 2130 - Classwork 6
 You are now entering... The Queen's Domain
 
-** Wesley Ng, Joshua Lee, Isaiah PajarilloE **
+** Wesley Ng, Joshua Lee, Isaiah Pajarillo **
